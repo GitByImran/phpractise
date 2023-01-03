@@ -45,7 +45,7 @@
 
 /*  */
 header {
-    background: url(/img/bg.jpg) no-repeat center center;
+    background: url("https://i.ibb.co/k480jYc/bg.jpg") no-repeat center center;
     background-size: cover;
 
     background-color: rgba(0, 0, 0, 0.616);
@@ -64,9 +64,6 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.nav-menu {
-    
-}
 .nav-menu ul {
     display: inline;
     margin-right: 10px;
@@ -82,8 +79,6 @@ header {
     margin: 3px 10px;
     padding: 5px 0;
     text-transform: capitalize;
-}
-.nav-menu ul li a:hover {
 }
 .nav-menu ul li a i {
     margin-right: 5px;
@@ -126,7 +121,6 @@ header {
     text-transform: capitalize;
     border-radius: 5px;
 }
-
 
 /*  */
 
@@ -180,7 +174,6 @@ header {
     color: #fafafa;
     margin: 20px;
 }
-
 
 /*  */
 
@@ -248,13 +241,13 @@ header {
     color: #fafafa;
 }
 .consider1 {
-    background: url(/img/11.jpg) no-repeat center;
+    background: url("https://i.ibb.co/XbmZ5c6/11.jpg") no-repeat center;
     background-size: cover;
     background-color: rgb(0, 0, 0, 0.75);
     background-blend-mode: multiply;
 }
 .consider2 {
-    background: url(/img/33.jpg) no-repeat center;
+    background: url("https://i.ibb.co/bgwV7P4/33.jpg") no-repeat center;
     background-size: cover;
     background-color: rgb(0, 0, 0, 0.75);
     background-blend-mode: multiply;
@@ -332,7 +325,6 @@ header {
     font-weight: 600;
     color: #5DC269;
     margin-top: 20px;
-    text-align: center;
 }
 .projects-item span {
     font-size: 13px;
@@ -370,7 +362,6 @@ header {
         margin: 20px 0;
     }
 }
-
 
 /*  */
 
@@ -423,7 +414,6 @@ header {
 }
 
 /*  */
-
 
 .subscription-part {
     background: #282828;
@@ -500,49 +490,11 @@ header {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 992px) {
     .consider {
         flex-wrap: wrap;
     }
 }
-
-@media (max-width: 768px) {
-    
-}
-
 
 
 
